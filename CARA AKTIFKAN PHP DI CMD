@@ -1,0 +1,11 @@
+CARA AKTIFKAN SCRIPT SNAPSHOT PHP di CMD
+- Install Software XAMPP
+- Aktifkan Apache dan MySQL di control panel xampp
+- Tekan tombol Windows + r (run)
+- Ketik "%windir%\System32\SystemPropertiesAdvanced.exe"
+- Atau cari System Properties Advanced
+- Klik Enviroment Variables
+- System Variables ---> PATH
+- Edit
+- Paste kan link folder php xampp
+- OK
