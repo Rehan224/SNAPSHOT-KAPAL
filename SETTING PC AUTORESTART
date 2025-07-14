@@ -1,0 +1,15 @@
+Cara Supaya PC autorestart di Jam tertentu
+- Cari Task Scheduler dan buka,
+- Pilih Create Basic Task di bagian kanan,
+- Berikan nama, "misalnya: restart PC",
+- Klik Next,
+- Pilih Daily, untuk tugas setiap hari,
+- Klik Next,
+- Atur waktu mulai restart PC nya, contoh: 23:50,
+- Klik Next,
+- Pilih Start Program,
+- Klik Next,
+- Di bagian program/script, ketik "shutdown',
+  Pada bagian add arguments, ketik "/r /f /t 0" untuk perintah restart,
+- Klik Next,
+- Klik Finish.
