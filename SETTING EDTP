@@ -4,7 +4,8 @@ SETTING REGEDIT EDTP
 - HKEY_LOCAL_MACHINE --> SOFTWARE --> EDTP
 
 RESTART EDTP
-- untuk matikan/hidupkan EDTP, windows + r, ketik services.msc, cari EDTP Uploader
+- Windows + r, ketik services.msc, 
+- cari EDTP Uploader
 
 CEK LOG EDTP
 - untuk lihat LOG EDTP,
