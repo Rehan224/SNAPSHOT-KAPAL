@@ -1,0 +1,4 @@
+Cara Autorun Script PHP
+- Teekan Windows + r (run)
+- ketik "shell:startup"
+- Copy dan Paste script kalian kedalam folder ini, contoh: nama_file.bat
