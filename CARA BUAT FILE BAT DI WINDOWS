@@ -1,0 +1,7 @@
+Cara Buat File .bat di Windows 
+- Buka Notepad 
+- Ketik @echo off
+- Enter
+- Ketik php $lokasi_script_php
+- Simpan file, pilih type file all files
+- Buat nama_file.bat
